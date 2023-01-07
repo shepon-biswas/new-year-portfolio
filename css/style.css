@@ -77,6 +77,10 @@
   line-height: 2;
 }
 
+.about-ul > li > img {
+  height: 20px;
+}
+
 /* My Plans Section Styles */
 .plan-title {
   font-size: 35px;
@@ -178,4 +182,12 @@
   font-weight: 600;
   color: white;
   background-color: rgb(0, 157, 255);
+}
+
+/* Copyright Section */
+.copyright-container {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(36, 36, 36);
+  color: white;
 }
