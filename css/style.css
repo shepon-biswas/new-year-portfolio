@@ -27,12 +27,12 @@
   background-image: url(../images/banner3.png);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 90vh;
+  height: 700px;
 }
 .banner-elements {
   width: 30%;
   text-align: right;
-  padding-top: 150px;
+  padding-top: 180px;
   position: absolute;
   right: 200px;
 }
