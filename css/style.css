@@ -6,8 +6,8 @@
 }
 /* common class styles */
 .primary-btn {
-  padding: 16px 25px;
-  font-size: 18px;
+  padding: 14px 22px;
+  font-size: 16px;
   border-radius: 5px;
   border: none;
   font-weight: 600;
@@ -32,7 +32,7 @@
 .banner-elements {
   width: 30%;
   text-align: right;
-  padding-top: 300px;
+  padding-top: 150px;
   position: absolute;
   right: 200px;
 }
@@ -164,7 +164,7 @@
   text-align: left;
 }
 .subscribe > h1 {
-  font-size: 30px;
+  font-size: 24px;
 }
 .email-input {
   padding: 15px 25px;
@@ -175,8 +175,8 @@
 }
 
 .subscribe-btn {
-  padding: 16px 25px;
-  font-size: 18px;
+  padding: 14px 22px;
+  font-size: 16px;
   border-radius: 5px;
   border: none;
   font-weight: 600;
@@ -189,5 +189,6 @@
   padding: 20px;
   text-align: center;
   background-color: rgb(36, 36, 36);
-  color: white;
+  color: rgb(146, 146, 146);
+  font-size: small;
 }
